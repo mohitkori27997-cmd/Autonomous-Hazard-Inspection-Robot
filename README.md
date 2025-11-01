@@ -1,2 +1,2 @@
 # Autonomous-Hazard-Inspection-Robot
-STM32-based autonomous robot for hazardous environment inspection, featuring ultrasonic sensing, PID control, and MATLAB/Simulink-based navigation simulation.
+An Arduino-based autonomous robot designed for hazardous environment inspection — capable of detecting gases, temperature variations, and obstacles, while autonomously navigating and transmitting data to the ThingSpeak cloud via ESP8266 Wi-Fi module.
